@@ -97,6 +97,7 @@ header {
 }
 
 #block2 > p {
+    line-height: 2.5rem;
     font-size: 1.6rem;
     color: #51423D;
     margin: 15rem;
